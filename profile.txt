@@ -1,3 +1,5 @@
-Name: Your Name
+Skills:
+- Python
+- Git
+- JavaScript
 
-Interests: Coding, Design
